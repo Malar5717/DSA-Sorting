@@ -1,3 +1,3 @@
 # DSA-Sorting
 
-LeetCode based problems on -Sorting-
+LeetCode problems on -Sorting- topic
